@@ -46,7 +46,7 @@
 
 ---
 
-### 🍉: Labs :
+### 🍉 Labs :
 ## Веб
 - [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/Azat2202/Web_lab1)
 - [Лабораторная работа 2. Java Server Pages](https://github.com/Azat2202/Web_lab2)
