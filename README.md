@@ -48,7 +48,7 @@
 ## [Лабораторные работы 1 курса]()
 
 ## Веб
- [Лабораторная работа 1. HTML+CSS+PHP+JS]() \
+ [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/RavvChek/web-programming-lab-1) \
  [Лабораторная работа 2. Java Server Pages]() \
  [Лабораторная работа 3. Java Server Faces]() \
  [Лабораторная работа 4. (front-end) VueJS]() \
