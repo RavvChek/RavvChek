@@ -20,4 +20,4 @@
   </a>
 </div>
 
-https://komarev.com/ghpvc/?username=RavvChek
+<img src="https://komarev.com/ghpvc/?username=RavvChek&style=flat-square&color=blue" alt=""/>
