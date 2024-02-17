@@ -52,7 +52,7 @@
  [Лабораторная работа 2. Java Server Pages](https://github.com/RavvChek/web-programming-lab2) \
  [Лабораторная работа 3. Java Server Faces](https://github.com/RavvChek/web-programming-lab3) \
  [Лабораторная работа 4. (front-end) VueJS](https://github.com/RavvChek/web-programming-lab-4-front-end-) \
- [Лабораторная работа 4. (back-end) Spring Boot]() 
+ [Лабораторная работа 4. (back-end) Spring Boot](https://github.com/RavvChek/web-programming-lab-4-back-end-) 
 
 ## Языки программирования
  [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/ravvcheck/assignment-1-io-library) \
