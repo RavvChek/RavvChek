@@ -50,7 +50,7 @@
 ## Веб
  [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/RavvChek/web-programming-lab-1) \
  [Лабораторная работа 2. Java Server Pages](https://github.com/RavvChek/web-programming-lab2) \
- [Лабораторная работа 3. Java Server Faces]() \
+ [Лабораторная работа 3. Java Server Faces](https://github.com/RavvChek/web-programming-lab3) \
  [Лабораторная работа 4. (front-end) VueJS]() \
  [Лабораторная работа 4. (back-end) Spring Boot]() 
 
