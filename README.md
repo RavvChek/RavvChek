@@ -45,17 +45,20 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
 
 ---
+## [Лабораторные работы 1 курса]()
 
-### 🍉 Labs :
 ## Веб
-- [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/Azat2202/Web_lab1)
-- [Лабораторная работа 2. Java Server Pages](https://github.com/Azat2202/Web_lab2)
-- [Лабораторная работа 3. Java Server Faces](https://github.com/Azat2202/Web_lab3)
-- [Лабораторная работа 4. (front-end) React + Redux](https://github.com/Azat2202/web_lab4_front)
-- [Лабораторная работа 4. (back-end) Spring Boot](https://github.com/Azat2202/web_lab4_back)
+- [Лабораторная работа 1. HTML+CSS+PHP+JS]()
+- [Лабораторная работа 2. Java Server Pages]()
+- [Лабораторная работа 3. Java Server Faces]()
+- [Лабораторная работа 4. (front-end) VueJS]()
+- [Лабораторная работа 4. (back-end) Spring Boot]()
 
 ## Языки программирования
-- [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/Azat222/assignment-1-io-library)
+- [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/ravvcheck/assignment-1-io-library)
+- [Лабораторная работа 2. Ассемблер, словарь](https://gitlab.se.ifmo.ru/ravvcheck/assignment-2-dictionary)
+- [Лабоарторная работа 3. Поворот изображения](https://gitlab.se.ifmo.ru/ravvcheck/assignment-3-image-rotation)
+- [Лабораторная работа 4. Аллокатор памяти](https://gitlab.se.ifmo.ru/ravvcheck/assignment-4-memory-allocator)
+- [Лабораторная работа 5. Сепия фильтр](https://gitlab.se.ifmo.ru/ravvcheck/assignment-5-sepia-filter)
 
 ## Вычислительная математика
-- [Лабораторная работа 1. Метод итераций](https://github.com/Azat2202/CompMath_lab1)
