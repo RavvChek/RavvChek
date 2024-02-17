@@ -46,6 +46,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
 
+---
+
 ## [Лабораторные работы 1 курса]()
 
 ## Веб
