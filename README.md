@@ -43,7 +43,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
 
 ---
-
+<p align="left">
 ## [Лабораторные работы 1 курса]()
 
 ## Веб
@@ -61,3 +61,4 @@
 - [Лабораторная работа 5. Сепия фильтр](https://gitlab.se.ifmo.ru/ravvcheck/assignment-5-sepia-filter)
 
 ## Вычислительная математика
+</p>
