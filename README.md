@@ -45,7 +45,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
 
 ---
-## [Лабораторные работы 1 курса]()
+## [Лабораторные работы 1 курса](first%20year.md)
 
 ## Веб
  [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/RavvChek/web-programming-lab-1) \
