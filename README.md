@@ -61,4 +61,5 @@
  [Лабораторная работа 4. Аллокатор памяти](https://gitlab.se.ifmo.ru/ravvcheck/assignment-4-memory-allocator) \
  [Лабораторная работа 5. Сепия фильтр](https://gitlab.se.ifmo.ru/ravvcheck/assignment-5-sepia-filter) 
 
-## Вычислительная математика
+## Основы программной инженерии
+ [Лабораторная работа 3. Системы сборки ПО (Ant)](https://github.com/RavvChek/lab3OPI) \
