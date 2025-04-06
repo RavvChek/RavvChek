@@ -33,8 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/с/с-original.svg" title="С" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/с++/с++-original.svg" title="С++"  alt="С++" width="40" height="40"/>&nbsp;
+  <img src="icons/c/c-original.svg" title="С" alt="C" width="40" height="40"/>&nbsp;
+  <img src="icons/с++/с++-original.svg" title="С++"  alt="С++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
@@ -43,23 +43,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
-
----
-## [Лабораторные работы 1 курса](https://github.com/RavvChek/RavvChek/blob/main/first.md)
-
-## Веб
- [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/RavvChek/web-programming-lab-1) \
- [Лабораторная работа 2. Java Server Pages](https://github.com/RavvChek/web-programming-lab2) \
- [Лабораторная работа 3. Java Server Faces](https://github.com/RavvChek/web-programming-lab3) \
- [Лабораторная работа 4. (front-end) VueJS](https://github.com/RavvChek/web-programming-lab-4-front-end-) \
- [Лабораторная работа 4. (back-end) Spring Boot](https://github.com/RavvChek/web-programming-lab-4-back-end-) 
-
-## Языки программирования
- [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/ravvcheck/assignment-1-io-library) \
- [Лабораторная работа 2. Ассемблер, словарь](https://gitlab.se.ifmo.ru/ravvcheck/assignment-2-dictionary) \
- [Лабоарторная работа 3. Поворот изображения](https://gitlab.se.ifmo.ru/ravvcheck/assignment-3-image-rotation) \
- [Лабораторная работа 4. Аллокатор памяти](https://gitlab.se.ifmo.ru/ravvcheck/assignment-4-memory-allocator) \
- [Лабораторная работа 5. Сепия фильтр](https://gitlab.se.ifmo.ru/ravvcheck/assignment-5-sepia-filter) 
-
-## Основы программной инженерии
- [Лабораторная работа 3. Системы сборки ПО (Ant)](https://github.com/RavvChek/lab3OPI) \
