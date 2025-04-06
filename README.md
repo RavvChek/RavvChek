@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="icons/c/c-original.svg" title="С" alt="C" width="40" height="40"/>&nbsp;
+  <img src="[icons/c/c-original.svg](https://www.google.com/imgres?q=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%20C%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FC_Programming_Language.svg%2F1200px-C_Programming_Language.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&docid=Shits0nCqz4EVM&tbnid=qRDDOzjuamI5pM&vet=12ahUKEwimu7-6_cOMAxXzMtAFHStRBmoQM3oECBwQAA..i&w=1200&h=1327&hcb=2&ved=2ahUKEwimu7-6_cOMAxXzMtAFHStRBmoQM3oECBwQAA)" title="С" alt="C" width="40" height="40"/>&nbsp;
   <img src="icons/с++/с++-original.svg" title="С++"  alt="С++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
